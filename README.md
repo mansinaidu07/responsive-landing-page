@@ -17,6 +17,6 @@ This project is a simple responsive landing page built using HTML and CSS.
 
 ## Screenshots
 
-![Landing Page](screenshots/Landing_page.png)
+![Landing Page](Screenshots/Landing_page.png)
 
 
